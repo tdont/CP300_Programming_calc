@@ -1,3 +1,10 @@
+outputdir
+*.log
+*.mak
+*.win
+*.layout
+
+
 # Prerequisites
 *.d
 
