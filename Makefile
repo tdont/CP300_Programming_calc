@@ -1,5 +1,5 @@
 # Allow the command to be displayed
-VERBOSE ?= FALSE
+VERBOSE ?= TRUE
 
 # Hide or not based on VERBOSE
 ifeq ($(VERBOSE),TRUE)

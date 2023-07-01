@@ -4,6 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
+                "${workspaceFolder}/inc/*",
                 "C:\\Program Files (x86)\\CASIO\\ClassPad 300 SDK\\CP_Include"
             ],
             "defines": [
